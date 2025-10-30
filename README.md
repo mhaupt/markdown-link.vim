@@ -10,6 +10,7 @@ folder, e.g., `~/.vim/plugin`.
 
 # Licence
 
-This was vibe-coded using Claude Sonnet 4, so we should consider it to be in the
-public domain. It's still provided as-is, and so forth, use at your own risk.
+This was [vibe-coded](https://blog.haupz.de/markdown-links-in-macvim.html) using
+Claude Sonnet 4, so we should consider it to be in the public domain. It's still
+provided as-is, and so forth, use at your own risk.
 
