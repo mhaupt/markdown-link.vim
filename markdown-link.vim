@@ -39,7 +39,6 @@ endfunction
 
 augroup MarkdownLinkPlugin
   autocmd!
-  autocmd FileType markdown vnoremap <buffer> <D-v> :<C-u>call <SID>CreateMarkdownLink()<CR>
   autocmd FileType markdown silent! vunmap <buffer> <D-v>
   autocmd FileType markdown vnoremap <buffer> <D-v> :<C-u>call <SID>CreateMarkdownLink()<CR>
 augroup END
